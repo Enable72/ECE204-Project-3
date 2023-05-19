@@ -1,7 +1,6 @@
 # ECE204-Project-3
-ECE 204 Project 3 
 This project explores Unsupervised machine learning for deciphering the structure of multidimensional datasets
-Please use your mutations file for the project.
+We used our mutations file for the project.
 In this project we are analyzing head and neck squamous cancer. 
 Run the jupyter notebook with your mutations file and use the appropriate number of mutations, in our case we observe 96 mutations.
 
