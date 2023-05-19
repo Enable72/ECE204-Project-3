@@ -12,3 +12,8 @@ $ python3
 >> sigPlt.plotSBS(matrix_path, output_path, project, plot_type, percentage=False)
 where matrix_path, output_path, project, and plot_type must be strings (surrounded by quotation marks, ex: "/Users/ebergstr/Desktop/test_sample").
 
+To use signature.tools.lib (https://github.com/Nik-Zainal-Group/signature.tools.lib) use the following steps:
+git clone https://github.com/Nik-Zainal-Group/signature.tools.lib.git
+$ enter the R environment from the main directory of signature.tools.lib:
+install.packages("devtools")
+devtools::install()
