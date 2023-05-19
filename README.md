@@ -3,7 +3,7 @@ This project explores Unsupervised machine learning for deciphering the structur
 We used our mutations file for the project.
 In this project we are analyzing head and neck squamous cancer. 
 Run the jupyter notebook(Project3.ipynb) with your mutations file and use the appropriate number of mutations, in our case we observe 96 mutations.
-For generating the input matrix file for SigProfilerPlotting follow visualization.ipynb
+For generating the input matrix file for SigProfilerPlotting follow visualization.ipynb.
 ***
 
 To use SigProfilerPlotting (https://github.com/AlexandrovLab/SigProfilerPlotting) use the following steps:  
