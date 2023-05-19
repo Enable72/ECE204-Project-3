@@ -3,6 +3,7 @@ This project explores Unsupervised machine learning for deciphering the structur
 We used our mutations file for the project.
 In this project we are analyzing head and neck squamous cancer. 
 Run the jupyter notebook with your mutations file and use the appropriate number of mutations, in our case we observe 96 mutations.
+<br/>
 
 To use SigProfilerPlotting (https://github.com/AlexandrovLab/SigProfilerPlotting) use the following steps:  
 ```
@@ -13,7 +14,8 @@ Import in python3:
 import sigProfilerPlotting as sigPlt  
 sigPlt.plotSBS(matrix_path, output_path, project, plot_type, percentage=False)  
 ```
-Where matrix_path, output_path, project, and plot_type must be strings (surrounded by quotation marks, ex: "/Users/ebergstr/Desktop/test_sample").
+Where matrix_path, output_path, project, and plot_type must be strings (surrounded by quotation marks, e.g."/Users/ebergstr/Desktop/test_sample").
+<br/>
 
 To use signature.tools.lib (https://github.com/Nik-Zainal-Group/signature.tools.lib) use the following steps:  
 ```
